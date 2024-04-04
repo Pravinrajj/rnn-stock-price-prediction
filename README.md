@@ -90,7 +90,7 @@ plt.show()
 ## OUTPUT
 
 ### True Stock Price, Predicted Stock Price vs time
-![image](https://github.com/Pravinrajj/rnn-stock-price-prediction/assets/117917674/7a745400-5360-405d-b774-5814f309f478)
+![image](https://github.com/Pravinrajj/rnn-stock-price-prediction/assets/117917674/ea5eab62-bc8d-4332-84ac-3f4ee9893600)
 
 ### Mean Square Error
 ![image](https://github.com/Pravinrajj/rnn-stock-price-prediction/assets/117917674/41ea150f-89ac-41f8-b060-4e099565769e)
