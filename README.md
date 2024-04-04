@@ -93,7 +93,7 @@ plt.show()
 ![image](https://github.com/Pravinrajj/rnn-stock-price-prediction/assets/117917674/ea5eab62-bc8d-4332-84ac-3f4ee9893600)
 
 ### Mean Square Error
-![image](https://github.com/Pravinrajj/rnn-stock-price-prediction/assets/117917674/41ea150f-89ac-41f8-b060-4e099565769e)
+![image](https://github.com/Pravinrajj/rnn-stock-price-prediction/assets/117917674/1c1883de-b267-4d77-aca5-03485646c73c)
 
 ## RESULT
 Thus, we have successfully created a Simple RNN model for Stock Price Prediction.
